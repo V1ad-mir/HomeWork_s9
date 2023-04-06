@@ -1,0 +1,15 @@
+E:\language C#\HomeWork_s9\bin\Debug\net6.0\HomeWork_s9.exe
+E:\language C#\HomeWork_s9\bin\Debug\net6.0\HomeWork_s9.deps.json
+E:\language C#\HomeWork_s9\bin\Debug\net6.0\HomeWork_s9.runtimeconfig.json
+E:\language C#\HomeWork_s9\bin\Debug\net6.0\HomeWork_s9.dll
+E:\language C#\HomeWork_s9\bin\Debug\net6.0\HomeWork_s9.pdb
+E:\language C#\HomeWork_s9\obj\Debug\net6.0\HomeWork_s9.csproj.AssemblyReference.cache
+E:\language C#\HomeWork_s9\obj\Debug\net6.0\HomeWork_s9.GeneratedMSBuildEditorConfig.editorconfig
+E:\language C#\HomeWork_s9\obj\Debug\net6.0\HomeWork_s9.AssemblyInfoInputs.cache
+E:\language C#\HomeWork_s9\obj\Debug\net6.0\HomeWork_s9.AssemblyInfo.cs
+E:\language C#\HomeWork_s9\obj\Debug\net6.0\HomeWork_s9.csproj.CoreCompileInputs.cache
+E:\language C#\HomeWork_s9\obj\Debug\net6.0\HomeWork_s9.dll
+E:\language C#\HomeWork_s9\obj\Debug\net6.0\refint\HomeWork_s9.dll
+E:\language C#\HomeWork_s9\obj\Debug\net6.0\HomeWork_s9.pdb
+E:\language C#\HomeWork_s9\obj\Debug\net6.0\HomeWork_s9.genruntimeconfig.cache
+E:\language C#\HomeWork_s9\obj\Debug\net6.0\ref\HomeWork_s9.dll
